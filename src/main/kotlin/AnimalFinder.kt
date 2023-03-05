@@ -8,6 +8,9 @@ class AnimalFinder {
         }
 
         println(animals.getAnimal(animalNumber))
+        println()
+        println("---------------------")
+        println()
 
         return
     }
